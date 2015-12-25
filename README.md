@@ -4,6 +4,10 @@
 
 ASCII back-end for matplotlib
 
+## Demo
+* [Demo1](https://github.com/domitry/matascii/blob/master/Matascii.ipynb)
+* [Christmas](https://github.com/domitry/matascii/blob/master/Christmas.ipynb)
+
 ## Installation
 ```
 git clone https://github.com/domitry/matascii.git
