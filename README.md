@@ -1,6 +1,7 @@
 # matascii
 
 ![](https://i.gyazo.com/8f02fc6f267c2f0d2e9a15e05f071d5b.png)
+
 ASCII back-end for matplotlib
 
 ## Installation
